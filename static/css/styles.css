@@ -1,0 +1,46 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+main {
+    flex: 1;
+}
+
+.card {
+    max-width: 500px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.card-title {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.alert {
+    font-size: 18px;
+    font-weight: bold;
+    display: none;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.btn-block {
+    width: 100%;
+}
